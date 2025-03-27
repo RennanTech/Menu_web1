@@ -6,8 +6,5 @@
 - [Atividade 2](https://rennantech.github.io/Atividade-2/)
 - [Atividade 3](https://rennantech.github.io/Atividade-3/)
 - [Atividade 4](https://rennantech.github.io/Atividade-4/)
-- [Atividade 5](https://rennantech.github.io/Atividade-5/)
-- [Atividade 6](https://rennantech.github.io/Atividade-6/)
-  
 
 
