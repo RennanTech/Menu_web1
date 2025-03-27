@@ -10,3 +10,4 @@
 - [Atividade 6](https://rennantech.github.io/Atividade-6/)
 - [Atividade 7](https://rennantech.github.io/Atividade-7/)
 - [Atividade 8](https://rennantech.github.io/Atividade-8/)
+- [Atividade 9](https://rennantech.github.io/Atividade-9/)
